@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 48b906c96b471a9b4f5b864fbbbd78a393415f67 Terwagne <Ouadjex@gmail.com> 1646265615 +0100	commit (initial): projet 3 openclassroms debut SASS
+48b906c96b471a9b4f5b864fbbbd78a393415f67 bc5a4170720c93e3e8c0f3f6f38727c5a8b5522c Terwagne <Ouadjex@gmail.com> 1646324434 +0100	commit: fin de la section fonctionnement
+bc5a4170720c93e3e8c0f3f6f38727c5a8b5522c da3bb9a5cc369a215401e781274ee5c758723656 Terwagne <Ouadjex@gmail.com> 1646334492 +0100	commit: debut de la section restaurant
+da3bb9a5cc369a215401e781274ee5c758723656 b748683f3e0b11cef95efb251f65d1b4a40d09ba Terwagne <Ouadjex@gmail.com> 1646347131 +0100	commit: premier pages finie sans annimation
+b748683f3e0b11cef95efb251f65d1b4a40d09ba 816526baa3f0661088c15e0c96968b72658cee10 Terwagne <Ouadjex@gmail.com> 1646423512 +0100	commit: debut et annimation page 2
+816526baa3f0661088c15e0c96968b72658cee10 d6f66e7b0cabd9d75728e04d2c0afc1ccd409298 Terwagne <Ouadjex@gmail.com> 1646440138 +0100	commit: fin de la 2 eme pages avec annimation finie
+d6f66e7b0cabd9d75728e04d2c0afc1ccd409298 20100fa192021e608a62453b502ad33f68718f58 Terwagne <Ouadjex@gmail.com> 1646487404 +0100	commit: ajoute des 4 pages
+20100fa192021e608a62453b502ad33f68718f58 9bee0c87f396d63c38650209b059d903dd84ecae Terwagne <Ouadjex@gmail.com> 1646488957 +0100	commit: ajustement @media page accueil
+9bee0c87f396d63c38650209b059d903dd84ecae 854573d2302a4d6022df5a42c6da1db09df13c29 Terwagne <Ouadjex@gmail.com> 1646489586 +0100	commit: no select restaurant
+854573d2302a4d6022df5a42c6da1db09df13c29 d0fe55be0aa90a0c069f55dbe3bdeff91ac400d7 Terwagne <Ouadjex@gmail.com> 1646504983 +0100	commit: loader spin
+d0fe55be0aa90a0c069f55dbe3bdeff91ac400d7 bc980328061571fd6fd9f369edfcddad5cfc1980 Terwagne <Ouadjex@gmail.com> 1646506600 +0100	commit: user-select: none sur quelque elements
+bc980328061571fd6fd9f369edfcddad5cfc1980 c22bb1086b65ccbefe776bfa68532968053ed70d Terwagne <Ouadjex@gmail.com> 1646521769 +0100	commit: correction annimation des pages
+c22bb1086b65ccbefe776bfa68532968053ed70d d1268de94f8f1e8f569c80feab0aa36fbb1c937b Terwagne <Ouadjex@gmail.com> 1646742113 +0100	commit: modification du nommage des div
+d1268de94f8f1e8f569c80feab0aa36fbb1c937b 60fb666054ee917165da4660d5885fbfdcd0f2df Terwagne <Ouadjex@gmail.com> 1646851775 +0100	commit: modification du coeur - rendu plus naturel sans l'agrandire
+60fb666054ee917165da4660d5885fbfdcd0f2df 86ffa43bf3a3f6a1199604031d5fb65ceebf2985 Terwagne <Ouadjex@gmail.com> 1646853820 +0100	commit: modification de l'annimation du coeur et @media du footer
+86ffa43bf3a3f6a1199604031d5fb65ceebf2985 bd59a9eec814309802b69ac284ea7951fbf128f7 Terwagne <Ouadjex@gmail.com> 1646869217 +0100	commit: effet bow-shadow sur les restaurant
+bd59a9eec814309802b69ac284ea7951fbf128f7 76650ec4d08543452506d4dfaf7efaf4a8699402 Terwagne <Ouadjex@gmail.com> 1646870622 +0100	commit: effet sur le pseudo element nouveau
+76650ec4d08543452506d4dfaf7efaf4a8699402 cddd4a3352c3dd0328e87c70673fd76e3f725077 Terwagne <Ouadjex@gmail.com> 1646916124 +0100	commit: ajoute d'un max-width
+cddd4a3352c3dd0328e87c70673fd76e3f725077 764d77942ad387067285366b5bd6897586dfb040 Terwagne <Ouadjex@gmail.com> 1646917372 +0100	commit: ajoute d'un gitignore
+764d77942ad387067285366b5bd6897586dfb040 6324bbf91e16f17aa6e4c65ccb9c2b9f758add56 Terwagne <Ouadjex@gmail.com> 1646917485 +0100	commit: .gitignore
+6324bbf91e16f17aa6e4c65ccb9c2b9f758add56 476aa3feb110ff1fdf038bfede526d5f67a0c728 Terwagne <Ouadjex@gmail.com> 1647516876 +0100	commit: ajoute du mixin box-shadow_noir pour le bouton
+476aa3feb110ff1fdf038bfede526d5f67a0c728 88b8dbe8a88eba135f7e4d0496eaebb4ce2900aa Terwagne <Ouadjex@gmail.com> 1647517035 +0100	commit: modification du mixin bouton error
